@@ -1,7 +1,9 @@
 venv/
 .vscode/
 __pycache__/
-data.json
-fargona.json
+wells.json
+statistics.json
 test.py
+.env
+/**.json
 # app/core/database.db
